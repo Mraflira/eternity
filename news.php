@@ -723,25 +723,26 @@
             </div>
             <div class="index-blog-content-sidebar">
                 <h2>LATEST NEWS</h2>
-
-                <div class="forex-stock-box">
-                    <div class="forex-stock-image">
-                        <img src="image/money-dollar.jpg" alt="">
-                        <div class="forex-stock-content">
-                            <span>GBP/USD: Update News FX 25 Maret 2022</span>
+                <div class="index-blog-content-sidebar-layout">
+                    <div class="forex-stock-box">
+                        <div class="forex-stock-image">
+                            <img src="image/money-dollar.jpg" alt="">
+                            <div class="forex-stock-content">
+                                <span>GBP/USD: Update News FX 25 Maret 2022</span>
+                            </div>
                         </div>
+                        <p>Jumat, 25 Maret 2022</p>
                     </div>
-                    <p>Jumat, 25 Maret 2022</p>
-                </div>
 
-                <div class="forex-stock-box">
-                    <div class="forex-stock-image">
-                        <img src="image/money-dollar.jpg" alt="">
-                        <div class="forex-stock-content">
-                            <span>GBP/USD: Update News FX 25 Maret 2022</span>
+                    <div class="forex-stock-box">
+                        <div class="forex-stock-image">
+                            <img src="image/money-dollar.jpg" alt="">
+                            <div class="forex-stock-content">
+                                <span>GBP/USD: Update News FX 25 Maret 2022</span>
+                            </div>
                         </div>
+                        <p>Jumat, 25 Maret 2022</p>
                     </div>
-                    <p>Jumat, 25 Maret 2022</p>
                 </div>
             </div>
         </div>

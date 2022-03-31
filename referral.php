@@ -17,7 +17,6 @@
         <img src="image/refferal.jpg" alt="">
     </div>
     <div class="refferal-content">
-        <span><b>*) contoh dari Monex</b></span>
         <p>Punya circle yang luas? Atau network yang oke? Kenapa gak manfaatin dan
 dapatkan rebate $5/lot? Caranya mudah, cukup bagikan kode Referral kamu dan
 ajak siapapun untuk gabung ke Eternity dengan kodemu. Bagikan keseruan
@@ -73,7 +72,6 @@ tradingmu dengan mereka yang belum pernah tau apa itu Eternity.</p>
     <br>Semakin banyak mereka ikut trading dengan kode referral mu, semakin besar
     juga keuntunganmu</p>
     <div class="perhitunganLayout">
-        <span>(contoh dari MIFX)</span>
         <div class="perhitunganGrid">
             <div class="perhitunganImageBox">
                 <div class="perhitunganImage">

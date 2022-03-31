@@ -51,36 +51,39 @@
         <p>dengan Poin Rewards Eternity Kamu:</p>
     </div>
 </div>
-<div class="syarat-ketentuan">
-    <h2>Syarat & Ketentuan Program Kejutan Poin Eternity.</h2>
-    <ul>
-        <li>Kejutan Poin merupakan program poin rewards yang berlaku untuk seluruh Nasabah
-Eternity dengan Akun Standard , Akun Executive , dan Akun Ultimate.</li>
-<li>Nasabah Eternity dengan Akun Standard , Akun Executive , dan Akun Ultimate berhak
-mendapatkan 1 (satu) poin Rewards untuk setiap transaksi 1 lot one way dan berlaku
-kelipatan.
-</li>
-<li>Nasabah Eternity dengan Akun Standard , Akun Executive , dan Akun Ultimate berhak
-mendapatkan 1 (satu) poin Rewards untuk setiap transaksi 1 lot one way dan berlaku
-kelipatan.</li>
-<li>Poin Rewards akan diakumulasikan dalam Redemption Cabinet Nasabah. Apabila nasabah
-memiliki lebih dari 1 (satu) Akun Trading dalam 1 login Client Area, maka jumlah poin
-Rewards adalah akumulasi dari semua Akun tersebut.</li>
-<li>Poin Rewards bisa ditukarkan menjadi hadiah sesuai pilihan hadiah yang tertera di
-https://eternityfutures.co.id/redeem_point-usr</li>
-<li>Eternity dapat membatalkan penukaran poin Rewards apabila persediaan hadiah yang dipilih
-tidak ada. Apabila terjadi pembatalan, maka poin Rewards yang ditukarkan akan
-dikembalikan pada total point Rewards Redemption Cabinet Nasabah.
-</li>
-<li>Poin Rewards tidak dapat diuangkan, dipindahtangankan dan/atau digabungkan dengan poin
-Rewards dari Nasabah lain ataupun Nasabah sama dengan login Client Area berbeda.</li>
-<li>Eternity dapat sewaktu-waktu mengubah, menghapus, dan/atau menambahkan pilihan
-hadiah, jumlah penukaran poin setiap hadiah serta syarat dan ketentuan penukaran poin
-Rewards. Informasi terbaru akan diunggah ke https://eternityfutures.co.id/redeem_pointusr</li>
-    <li>Apabila terjadi pembatalan transaksi dan/atau dugaan kecurangan dari pihak nasabah, maka
-Eternity berhak melakukan pemotongan poin Rewards secara sepihak dengan pemberitahuan
-kepada nasabah melalui email.</li>
-    </ul>
+
+<div class="syarat-ketentuan-section">
+    <div class="syarat-ketentuan">
+        <h2>Syarat & Ketentuan Program Kejutan Poin Eternity.</h2>
+        <ul>
+            <li>Kejutan Poin merupakan program poin rewards yang berlaku untuk seluruh Nasabah
+    Eternity dengan Akun Standard , Akun Executive , dan Akun Ultimate.</li>
+    <li>Nasabah Eternity dengan Akun Standard , Akun Executive , dan Akun Ultimate berhak
+    mendapatkan 1 (satu) poin Rewards untuk setiap transaksi 1 lot one way dan berlaku
+    kelipatan.
+    </li>
+    <li>Nasabah Eternity dengan Akun Standard , Akun Executive , dan Akun Ultimate berhak
+    mendapatkan 1 (satu) poin Rewards untuk setiap transaksi 1 lot one way dan berlaku
+    kelipatan.</li>
+    <li>Poin Rewards akan diakumulasikan dalam Redemption Cabinet Nasabah. Apabila nasabah
+    memiliki lebih dari 1 (satu) Akun Trading dalam 1 login Client Area, maka jumlah poin
+    Rewards adalah akumulasi dari semua Akun tersebut.</li>
+    <li>Poin Rewards bisa ditukarkan menjadi hadiah sesuai pilihan hadiah yang tertera di
+    https://eternityfutures.co.id/redeem_point-usr</li>
+    <li>Eternity dapat membatalkan penukaran poin Rewards apabila persediaan hadiah yang dipilih
+    tidak ada. Apabila terjadi pembatalan, maka poin Rewards yang ditukarkan akan
+    dikembalikan pada total point Rewards Redemption Cabinet Nasabah.
+    </li>
+    <li>Poin Rewards tidak dapat diuangkan, dipindahtangankan dan/atau digabungkan dengan poin
+    Rewards dari Nasabah lain ataupun Nasabah sama dengan login Client Area berbeda.</li>
+    <li>Eternity dapat sewaktu-waktu mengubah, menghapus, dan/atau menambahkan pilihan
+    hadiah, jumlah penukaran poin setiap hadiah serta syarat dan ketentuan penukaran poin
+    Rewards. Informasi terbaru akan diunggah ke https://eternityfutures.co.id/redeem_pointusr</li>
+        <li>Apabila terjadi pembatalan transaksi dan/atau dugaan kecurangan dari pihak nasabah, maka
+    Eternity berhak melakukan pemotongan poin Rewards secara sepihak dengan pemberitahuan
+    kepada nasabah melalui email.</li>
+        </ul>
+    </div>
 </div>
 </body>
 </html>

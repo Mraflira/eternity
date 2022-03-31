@@ -139,9 +139,6 @@
   .refferal-content{
       text-align: start;
   }
-  .refferal-content span{
-      font-size: 1.7vw;
-  }
   .refferal-content p{
       color: #222222d0;
       font-size: 1.6vw;
@@ -200,10 +197,6 @@
 }
 .perhitunganLayout{
     margin: 1vw 0;
-}
-.perhitunganLayout span{
-    font-style: italic;
-    font-size: 1.3vw;
 }
 .perhitunganGrid{
     display: flex;
@@ -450,11 +443,7 @@
   color: #222222d0;
   padding-top: 1vw;
 }
-.news-date{
-  font-size: 1vw;
-  color: #222222d0;
-  padding-top: 1vw;
-}
+
 .news-comment{
   font-size: 1vw;
   color: #222222d0;
@@ -546,6 +535,7 @@
   border: 0.1vw solid #22222234;
   text-align: center;
   padding: 1.4vw 0;
+  cursor: pointer;
 }
 .eternity-ads h4{
   font-size: 2.7vw;
@@ -820,7 +810,266 @@
   transform: translate(-50%, -50%);
 }
 
+@media (max-width:768px) {
+  .news-banner{
+    height: 45vh;
+  }
+  .market-buzz{
+    padding: 2vw 5vw;
+    margin-top: 2vw;
+  }
+  .market-buzz h2{
+    font-size: 9vw;
+    padding: 3vw 0;
+  }
+  .news-highlights{
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap:3vw;
+    margin-top: 3vw;
+  }
+  .news-highlights-image{
+    height: 35vw;
+  }
+  .highlights-heading{
+    line-height: 6.5vw;
+  }
+  .highlights-heading span{
+    font-size: 7vw;
+  }
+  .highlights-heading h4{
+    font-size: 8vw;
+  }
+  .news-highlights-box p{
+    font-size: 5vw;
+    padding: 2vw 0;
+  }
 
+
+  .news-section-2{
+    padding: 3vw 5vw;
+    gap: 3vw;
+    flex-direction: column;
+  }
+  .news-section-2-box1{
+    width: 100%;
+  }
+  .news-section-2-box h2{
+    font-size: 9vw;
+    padding: 3vw 0;
+  }
+  .news-section-2-content{
+    gap: 1vw;
+    margin-top: 3vw;
+    flex-direction: column;
+  }
+  .news-card-layout{
+    width: 100%;
+    padding: 0 0;
+    display: flex;
+    gap: 3vw;
+  }
+  .news-card-image{
+    height: 40vw;
+  }
+  .news-section-2-card h4{
+    font-size: 5vw;
+    padding: 2.5vw 0;
+  }
+  .news-section-2-card p{
+    font-size: 4.5vw;
+    line-height: 6vw;
+  }
+  .news-date{
+    font-size: 3vw;
+    padding-top: 4vw;
+  }
+  .news-comment{
+    font-size: 3vw;
+    padding-bottom: 4vw;
+  }
+  .news-section-2-blog{
+    width: 100%;
+  }
+  .news-table{
+    gap: 3vw;
+    padding: 2vw;
+  }
+  .blog-image{
+    width: 35%;
+    height: 23vw;
+  }
+  .blog-content h4{
+    font-size: 5vw;
+    margin-bottom: 3vw;
+  }
+  .blog-content ion-icon{
+    font-size: 4vw;
+  }
+  .blog-content span{
+    font-size: 4vw;
+  }
+
+  .news-section-2-box2{
+    width: 100%;
+  }
+  .brief-wrapper{
+    margin-bottom: 8.5vw;
+  }
+  .brief-table{
+    padding: 3vw 1.6vw;
+    font-size: 5vw;
+  }
+
+  .eternity-ads{
+    padding: 4vw 0;
+    cursor: pointer;
+  }
+  .eternity-ads h4{
+    font-size: 9vw;
+    padding-bottom: 0.7vw;
+  }
+  .eternity-image span{
+    font-size: 6vw;
+    font-family: serca !important;
+  }
+  .eternity-image p{
+    font-size: 4.6vw;
+    font-family: serca !important;
+  }
+  .eternity-image img{
+    width: 55vw;
+  }
+
+
+  .outlook-forex-banner{
+    height: 40vh;
+  }
+  .outlook-forex-banner-heading span{
+    font-size: 11vw;
+  }
+  .outlook-forex-banner-heading h4{
+    font-size: 13vw;
+  }
+  .blog-isi-layout{
+    flex-direction: column;
+    gap: 3vw;
+    margin-top: 3vw;
+    margin: 3vw 5vw;
+  }
+  .mySidebar{
+    width: 75%;
+    margin: 4vw auto;
+  }
+  .sidebar-wrapper{
+    padding-bottom: 8vw;
+  }
+  .blog-isi{
+    padding: 3.5vw;
+  }
+  .blog-isi-heading h2{
+    margin: 2vw 0;
+    font-size: 7vw;
+  }
+  .blog-isi p{
+    margin-bottom: 3.5vw;
+    font-size: 5vw;
+  }
+
+
+
+  .forex-stock-index{
+    padding: 5vw;
+  }
+  .forex-stock-index h2{
+    font-size: 8vw;
+  }
+  .forex-stock-index-layout{
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 3vw;
+    margin: 3vw 0;
+  }
+  .forex-stock-image{
+    height: 45vw;
+    margin-bottom: 1vw;
+  }
+  .forex-stock-content{
+    padding: 1vw 1.2vw;
+  }
+  .forex-stock-content span{
+    font-size: 4.5vw;
+  }
+
+
+  .index-blog-banner{
+    height: 37vh;
+  }
+  .index-blog-content{
+    flex-direction: column;
+    gap: 3vw;
+    margin-top: 3vw;
+    margin: 3vw 5vw;
+  }
+  .index-blog-content-isi{
+    width: 100%;
+  }
+  .index-blog-content-sidebar{
+    width: 100%;
+  }
+  .index-blog-content-sidebar h2{
+    font-size: 9vw;
+    padding: 3vw 0;
+  }
+  .index-blog-content-sidebar-layout{
+    display: flex;
+    gap: 2vw;
+  }
+
+
+
+  .expert-brief-blog-banner{
+    height: 40vh;
+  }
+  .expert-brief-blog-banner-heading h2{
+    font-size: 13vw;
+    margin-bottom: -3vw;
+  }
+  .expert-brief-blog-banner-heading span{
+    font-size: 9vw;
+  }
+  .expert-brief-blog-content{
+    flex-direction: column;
+    margin: 3vw 5vw;
+    gap: 3vw;
+    margin-bottom: 3vw;
+  }
+  .expert-brief-blog-content-isi{
+    width: 100%;
+  }
+  .expert-brief-sidebar{
+    width: 100%;
+  }
+  .expert-brief-sidebar h2{
+    font-size: 9vw;
+    padding: 3vw 0;
+  }
+
+
+  .economic-calendar-banner{
+    height: 40vh;
+  }
+  .calendar{
+    width: 100%;
+    height: max-content;
+    padding: 2vw;
+  }
+  .calendar-box{
+    position: relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    transform: translate(0);
+  }
+}
 
 
 
@@ -830,7 +1079,6 @@
   width: 100%;
   height: 100vh;
   position: relative;
- 
 }
 .redemption-banner video{
   width: 100%;
@@ -941,3 +1189,243 @@
   font-size: 1.6vw;
   margin-bottom: 1vw;
 }
+
+@media(max-width: 768px){
+  .refferal{
+    padding: 8vw 3vw;
+}
+.refferal h3{
+    font-size: 6vw;
+}
+.refferal h2{
+  font-size: 9vw;
+  margin-top: 2vw;
+}
+.refferal-img{
+  width: 100%;
+  margin-top: 2vw;
+  height: 36vw;
+}
+.refferal-img img{
+  width: 100%;
+}
+.refferal-content p{
+  font-size: 5vw;
+  line-height: 6.5vw;
+  margin: 4vw 0;
+  margin-bottom: 6vw;
+}
+.refferal-table h3{
+  font-size: 7vw;
+}
+.keuntunganTable{
+  flex-direction: column;
+  margin-top: 3vw;
+  gap: 4vw;
+}
+.keuntunganTableContent tr,th,td{
+  padding: 4vw 10vw;
+}
+.keuntunganTableContent table tr th{
+  font-size: 7vw;
+}
+.keuntunganTableContent td{
+  font-size:5vw;
+  line-height: 6.5vw;
+  padding: 4vw 5vw;
+}
+.perhitungan p{
+  font-size: 5vw;
+  line-height: 6.5vw;
+  margin: 4vw 0 !important; 
+}
+.perhitunganGrid{
+  flex-direction: column;
+  gap: 4vw;
+  margin-top: 8vw;
+  margin-bottom:9vw;
+}
+.perhitunganImage{
+  height:max-content;
+}
+.perhitunganImage img{
+  position: relative;
+  width: 70vw;
+  top: 0;
+  left: 0;
+  transform: translate(0);
+}
+.cara-kerja-content{
+  margin-top: 5vw;
+}
+.cara-kerja-content h4{
+  font-size: 6.5vw;
+  padding-bottom: 0.1vw;
+}
+.cara-kerja-content p{
+  font-size: 5vw;
+  margin-top: -1vw;
+}
+.step-refferal{
+  padding: 3vw;
+  margin-top: 7vw;
+}
+.step-refferal h4{
+  font-size: 6.5vw;
+}
+.step-refferal-layout{
+  flex-direction: column;
+  margin-top: 4vw;
+  gap: 3vw;
+}
+.step-refferal-layout ion-icon{
+  font-size: 11vw;
+  margin: auto;
+  transform: rotate(90deg);
+}
+.step-refferal-box{
+  padding-top: 5vw;
+}
+.step-refferal-box span{
+  font-size: 11vw;
+}
+.step-refferal-box h5{
+  font-size: 6vw;
+  margin-bottom:-2vw;
+}
+.step-refferal-box p{
+  color: white;
+  font-size: 5vw;
+}
+.refferal-text span{
+  font-size: 6vw;
+}
+}
+
+/* REDEMPTION */
+@media(max-width: 768px){
+  .redemption-banner{
+    height: 30vh;
+  }
+  .redemption-1{
+    padding: 10vw 3vw;
+  }
+  .redemption-1 h2{
+    font-size: 5.7vw;
+    font-family: serca-light !important;
+    text-align: start;
+  }
+  .redemption-1-content h4{
+    font-size: 7vw;
+    font-family: serca-semiBold !important;
+    margin: 4vw 0;
+    text-align: start;
+  }
+  .redemption-1-content p{
+    font-size: 5vw;
+    line-height: 6.5vw;
+    text-align: start;
+  }
+  .goldTableContent{
+    width: 100%;
+    margin: 7vw 0;
+  }
+  .goldTable table th{
+    padding: 5vw 1vw;
+    font-size: 3.4vw;
+    text-align: center;
+    width: 10%;
+}
+.goldTable table td{
+  padding: 6vw 3vw;
+  font-size: 4vw;
+  text-align: center;
+}
+.redemption-promo b{
+  font-size: 7vw;
+}
+.redemption-promo p{
+  font-size:5vw;
+}
+.syarat-ketentuan{
+  width: 95%;
+}
+.syarat-ketentuan-section{
+  width: 100%;
+  background: #05BFC6;
+  position: relative;
+}
+.syarat-ketentuan h2{
+  font-size: 6.5vw;
+  margin-bottom: 3vw;
+}
+.syarat-ketentuan ul li{
+  font-size: 4.6vw;
+  margin-bottom: 5vw;
+  line-height: 6.5vw;
+}
+}
+
+@media only screen and (min-width : 768px) and (max-width:992px) {
+  .redemption-banner{
+    height: 45vh;
+  }
+  .redemption-1{
+    padding: 8vw 3vw;
+  }
+  .redemption-1 h2{
+    font-size: 5vw;
+    text-align: start;
+    font-family: serca-light !important;
+  }
+  .redemption-1-content h4{
+    font-size: 7vw;
+    font-family: serca-semiBold !important;
+    margin: 4vw 0;
+    text-align: start;
+  }
+  .redemption-1-content p{
+    font-size: 4vw;
+    line-height: 6.5vw;
+    text-align: start;
+  }
+  .goldTableContent{
+    width: 100%;
+    margin: 7vw 0;
+  }
+  .goldTable table th{
+    padding: 5vw 1vw;
+    font-size: 4vw;
+    text-align: center;
+    width: 10%;
+}
+.goldTable table td{
+  padding: 6vw 3vw;
+  font-size: 4vw;
+  text-align: center;
+}
+.redemption-promo b{
+  font-size: 7vw;
+}
+.redemption-promo p{
+  font-size:5vw;
+}
+.syarat-ketentuan{
+  width: 95%;
+}
+.syarat-ketentuan-section{
+  width: 100%;
+  background: #05BFC6;
+  position: relative;
+}
+.syarat-ketentuan h2{
+  font-size: 6.5vw;
+  margin-bottom: 3vw;
+}
+.syarat-ketentuan ul li{
+  font-size: 4.5vw;
+  margin-bottom: 5vw;
+  line-height: 6.5vw;
+}
+}
+/* REDEMPTION END*/
